@@ -1,0 +1,7 @@
+{ "mongo_username": "result_watcher",
+              "mongo_password": "asdqwe(GH",
+              "mongo_host": "ds043947.mongolab.com",
+              "mongo_port": "43947",
+              "mongo_db": "raceday",
+              "mongo_collection": "results"
+}
